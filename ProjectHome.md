@@ -1,0 +1,1 @@
+Dengan adanya Aplikasi ini, menciptakan suatu aplikasi yang dapat menghasilkan pengetahuan untuk menangani masalah yang timbul dari mobil bermerk Hyundai accent menggunakan metode forward chaining. Aplikasi yang dibuat harus mampu menangani masalah  jarak, waktu, serta sebuah keputusan tentang  kerusakan yang dialami oleh pemilik mobil bermerk Hyundai accent tersebut
